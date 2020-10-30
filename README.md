@@ -1,2 +1,3 @@
 # BioAlgo
-some of my bioinformatics algorithms
+Some bioinformatic algorithms with Python
+Tested with Rosalind.info 
