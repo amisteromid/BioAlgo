@@ -3,6 +3,8 @@ import numpy as np
 spot={}
 for i,a in enumerate('A C  D  E  F  G  H  I  K  L  M  N  P  Q  R  S  T  V  W  Y'.split()):
     spot[a]=i
+
+#BLOSUM62 matrix
 matrix='''
 4  0 -2 -1 -2  0 -2 -1 -1 -1 -1 -2 -1 -1 -1  1  0  0 -3 -2
 0  9 -3 -4 -2 -3 -3 -1 -3 -1 -1 -3 -3 -3 -3 -1 -1 -1 -2 -2
